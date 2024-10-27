@@ -1,0 +1,17 @@
+body{
+    color: #fff;
+    background-image: url(Asus1.png);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+a{
+    color: lime;
+}
+footer{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color:#fff;
+    font-size: 0.8em;
+
+}
